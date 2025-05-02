@@ -6,6 +6,9 @@ class ColorGet {
 
   static const Color bg1 = Color.fromARGB(255, 234, 234, 234);
   static const Color bg2 = Color(0xFFFFFFFF);
+  static const Color bg3 = Color(0xFF4F225A);
+  static const Color bg4 = Color(0xFF90659A);
+  static const Color bg5 = Color(0xFFF08769);
 
   static const Color button1 = Color.fromARGB(255, 38, 115, 202);
 

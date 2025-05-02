@@ -11,10 +11,10 @@ class ExpanseCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+      padding: EdgeInsets.symmetric(horizontal: 6, vertical: 16),
       margin: EdgeInsets.only(bottom: 8),
       decoration: BoxDecoration(
-          color: ColorGet.bg1, borderRadius: BorderRadius.circular(12)),
+          color: ColorGet.bg2, borderRadius: BorderRadius.circular(12)),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
